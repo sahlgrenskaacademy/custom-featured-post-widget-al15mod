@@ -11,7 +11,7 @@
  * @wordpress-plugin
  * Plugin Name:       Custom Featured Post Widget AL15MOD
  * Plugin URI:        http://gamajo.com/
- * Description:       Amends the order of output of the Genesis Featured Post Widget.
+ * Description:       Customization to change order of HTML output in some cases.
  * Version:           0.4
  * Author:            Pontus Sundén
  * Author URI:        http://gu.se
